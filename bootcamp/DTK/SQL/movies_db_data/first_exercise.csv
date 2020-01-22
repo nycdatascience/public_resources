@@ -1,0 +1,4 @@
+biography,birthday,deathday,gender,name,place_of_birth,facebook_likes
+"Bio for Actor One",1950-01-11,NULL,0,Actor One,"New York, New York, USA",100
+"Bio for Actor Two,
+with multiple lines",1915-01-01,2015-01-01,0,Actor Two,"New York, New York, USA",1000
